@@ -60,13 +60,11 @@ The database and required tables are created automatically when the application 
 
 ## Project Structure
 
-```text
 SmartSpend/
 │
 ├── expense_tracker.py
-├── expenses.db
+├── .gitignore
 └── README.md
-```
 
 ## How to Run
 
